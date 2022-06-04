@@ -1,4 +1,4 @@
-# DuckStation - PlayStation 1, aka. PSX Emulator
+# Pcsx1 - PlayStation 1, aka. PSX Emulator
 [Latest News](#latest-news) | [Features](#features) | [Screenshots](#screenshots) | [Downloading and Running](#downloading-and-running) | [Libretro Core](#libretro-core) | [Building](#building) | [Disclaimers](#disclaimers)
 
 **Discord Server:** https://discord.gg/Buktv3t
