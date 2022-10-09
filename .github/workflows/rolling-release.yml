@@ -1,4 +1,4 @@
-name: Create rolling release
+name: Create release
 
 on:
   pull_request:
